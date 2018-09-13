@@ -1,0 +1,2 @@
+#test py
+$echo aa
